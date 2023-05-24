@@ -1,0 +1,40 @@
+body {
+    font-family: "Times New Roman";
+  }
+
+.foot {
+    font-family: "Times New Roman";
+    background-color: #005677;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    color: #005677;
+    background-color: #C4C4C4; 
+  }
+
+header {
+    font-size: 35px;
+    color: #005677;
+    background-color: #C4C4C4;
+  }
+.centro {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.negrita {
+    font-weight: bold;
+  }
+
+.sangria {
+    text-indent: 80px;
+  }
+.centrar {
+    text-align: center;
+}
+div img {
+    background-color: #C4C4C4; 
+    color: #C4C4C4;
+}
